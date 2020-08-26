@@ -25,7 +25,7 @@ public class SimpleInterest {
 		
 		si = (p*r*t)/100;
 		
-		System.out.println("The simple interest is :" + si);
+		System.out.println("The simple interest is : " + si);
 	}
 
 }
